@@ -1,0 +1,6 @@
+D:\UAM Kendall\DESA. DE APLIC. DE ÚLTIMA GEN\BSI-28_3C2025_Tarea1_KendallBonillaMiranda\DAL_CRUD_HOTELES\bin\Debug\DAL_CRUD_HOTELES.dll
+D:\UAM Kendall\DESA. DE APLIC. DE ÚLTIMA GEN\BSI-28_3C2025_Tarea1_KendallBonillaMiranda\DAL_CRUD_HOTELES\bin\Debug\DAL_CRUD_HOTELES.pdb
+D:\UAM Kendall\DESA. DE APLIC. DE ÚLTIMA GEN\BSI-28_3C2025_Tarea1_KendallBonillaMiranda\DAL_CRUD_HOTELES\obj\Debug\DAL_CRUD_HOTELES.csproj.AssemblyReference.cache
+D:\UAM Kendall\DESA. DE APLIC. DE ÚLTIMA GEN\BSI-28_3C2025_Tarea1_KendallBonillaMiranda\DAL_CRUD_HOTELES\obj\Debug\DAL_CRUD_HOTELES.csproj.CoreCompileInputs.cache
+D:\UAM Kendall\DESA. DE APLIC. DE ÚLTIMA GEN\BSI-28_3C2025_Tarea1_KendallBonillaMiranda\DAL_CRUD_HOTELES\obj\Debug\DAL_CRUD_HOTELES.dll
+D:\UAM Kendall\DESA. DE APLIC. DE ÚLTIMA GEN\BSI-28_3C2025_Tarea1_KendallBonillaMiranda\DAL_CRUD_HOTELES\obj\Debug\DAL_CRUD_HOTELES.pdb
